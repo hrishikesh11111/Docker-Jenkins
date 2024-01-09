@@ -1,0 +1,41 @@
+# IDE-related files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled bytecode
+target/
+build/
+bin/
+
+# Docker-related files
+docker-compose.yml
+docker-compose.override.yml
+Dockerfile
+
+# Gradle files
+.gradle/
+build/
+*.jar
+
+# Maven files
+target/
+pom.xml
+pom.xml.asc
+pom.xml.sha1
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# VS Code specific files
+.vscode/
+
+# Logs
+logs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
